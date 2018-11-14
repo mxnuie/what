@@ -1,0 +1,10 @@
+>>>换源
+sudo nano /vim/etc/apt/sources.list
+.......(添加)
+sudo apt-get upgrade
+sudo apt-get uograde
+
+>>>Ubuntu-window文件共享
+sudo smbpasswd -a 用户名
+sudo smbpasswd -a morvan
+ifconfig
